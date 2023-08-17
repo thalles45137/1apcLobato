@@ -11,3 +11,6 @@ body {
 .ini{
     background-color: cornsilk;
 }
+.button {
+display: inline-block;
+}
